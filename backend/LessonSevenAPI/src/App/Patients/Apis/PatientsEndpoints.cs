@@ -24,6 +24,66 @@ public static class PatientsEndpoints {
                 FirstName = "Mike",
                 LastName = "Mute",
                 Age = 43
+            },
+              new {
+                FirstName = "Duncan",
+                LastName = "Musa",
+                Age = 27
+            },
+              new {
+                FirstName = "Mike",
+                LastName = "Mute",
+                Age = 43
+            },
+              new {
+                FirstName = "Duncan",
+                LastName = "Musa",
+                Age = 27
+            },
+              new {
+                FirstName = "Mike",
+                LastName = "Mute",
+                Age = 43
+            },
+              new {
+                FirstName = "Duncan",
+                LastName = "Musa",
+                Age = 27
+            },
+              new {
+                FirstName = "Mike",
+                LastName = "Mute",
+                Age = 43
+            },
+              new {
+                FirstName = "Duncan",
+                LastName = "Musa",
+                Age = 27
+            },
+              new {
+                FirstName = "Mike",
+                LastName = "Mute",
+                Age = 43
+            },
+              new {
+                FirstName = "Duncan",
+                LastName = "Musa",
+                Age = 27
+            },
+              new {
+                FirstName = "Mike",
+                LastName = "Mute",
+                Age = 43
+            },
+              new {
+                FirstName = "Duncan",
+                LastName = "Musa",
+                Age = 27
+            },
+              new {
+                FirstName = "Mike",
+                LastName = "Mute",
+                Age = 43
             }
         };
 
